@@ -1,2 +1,13 @@
 // Use this file to define style overrides for @edx/paragon
 // This file is included after all Paragon styles, but should generally avoid using private mixins in Paragon.
+.logo {
+  width: 200px;
+}
+
+.pgn__card-header {
+  background: rgb(136, 122, 122);
+}
+
+.header-navigations > button:nth-child(1) {
+  background: blue;
+}
