@@ -7,15 +7,15 @@
   --pgn-size-btn-focus-width: 2px;
   --pgn-size-input-btn-focus-width: 1px;
   --pgn-spacing-input-btn-padding-y: 0.5625rem;
-  --pgn-color-brand-100: #15FF00FF; /** Brand color of level 100. */
-  --pgn-color-brand-200: #15FF00FF; /** Brand color of level 200. */
-  --pgn-color-brand-300: #15FF00FF; /** Brand color of level 300. */
-  --pgn-color-brand-400: #15FF00FF; /** Brand color of level 400. */
-  --pgn-color-brand-600: #15FF00FF; /** Brand color of level 600. */
-  --pgn-color-brand-700: #15FF00FF; /** Brand color of level 700. */
-  --pgn-color-brand-800: #15FF00FF; /** Brand color of level 800. */
-  --pgn-color-brand-900: #15FF00FF; /** Brand color of level 900. */
-  --pgn-color-brand-base: #15FF00FF; /** Basic brand color. */
+  --pgn-color-brand-100: #15FF00FF;
+  --pgn-color-brand-200: #15FF00FF;
+  --pgn-color-brand-300: #15FF00FF;
+  --pgn-color-brand-400: #15FF00FF;
+  --pgn-color-brand-600: #15FF00FF;
+  --pgn-color-brand-700: #15FF00FF;
+  --pgn-color-brand-800: #15FF00FF;
+  --pgn-color-brand-900: #15FF00FF;
+  --pgn-color-brand-base: #15FF00FF;
   --pgn-spacing-form-input-padding-y-base: var(--pgn-spacing-input-btn-padding-y);
   --pgn-color-brand-500: var(--pgn-color-brand-base); /** Brand color of level 500. */
   --pgn-color-action-default-brand-100: #11CC00FF;
