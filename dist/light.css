@@ -7,15 +7,15 @@
   --pgn-size-btn-focus-width: 2px;
   --pgn-size-input-btn-focus-width: 1px;
   --pgn-spacing-input-btn-padding-y: 0.5625rem;
-  --pgn-color-brand-100: #FFD666FF;
-  --pgn-color-brand-200: #FFCB3EFF;
-  --pgn-color-brand-300: #FFBB02FF;
-  --pgn-color-brand-400: #F1BE27FF;
-  --pgn-color-brand-base: #FFCB3EFF; /** Basic brand color. */
+  --pgn-color-brand-brand-primary: #4B647DFF;
+  --pgn-color-brand-brand-primary-light: #697D91FF;
+  --pgn-color-brand-gray-light: #A2AEB9FF;
+  --pgn-color-brand-gray: #C1C9D1FF;
+  --pgn-color-brand-gray-medium: #E6EBEEFF;
+  --pgn-color-brand-gray-lighter: #EFF1F3FF;
+  --pgn-color-brand-brand-secondary: #FFCB3EFF;
+  --pgn-color-brand-brand-secondary-rollover: #FFBB02FF;
+  --pgn-color-brand-brand-secondary-inactive: #FFD666FF;
+  --pgn-color-brand-icons-menu: #FFD666FF; /** 'BFH-Gelb' der Icons für Menu-Angebot. */
   --pgn-spacing-form-input-padding-y-base: var(--pgn-spacing-input-btn-padding-y);
-  --pgn-color-action-default-brand-100: #FFC833FF;
-  --pgn-color-action-default-brand-200: #FFBD0BFF;
-  --pgn-color-action-default-brand-300: #CE9700FF;
-  --pgn-color-action-default-brand-400: #D7A40EFF;
-  --pgn-color-action-default-brand-base: #FFBD0BFF;
 }
